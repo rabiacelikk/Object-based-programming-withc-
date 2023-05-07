@@ -1,0 +1,11 @@
+﻿abstract class => kiyafet
+*kıyafetin genel özellikleri (neyden yapılmış, rengi, fiyatı)
+
+en az iki alt class
+*kazak(kalın kazak, ince kazak,uzun kol,kısa)
+*pnatolon(uzun pant., kısa pant.,)
+*mont(şişme mi değil mi? (boolean))
+
+interface => kalınlık, kol durumu
+
+sealed => manager /// miras alınamayan class (ekleme, silme)
